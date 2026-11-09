@@ -1,0 +1,33 @@
+
+.cover {
+  display:flex;
+  justify-content: left;
+  height: 200px;
+  margin-inline: 25%;
+  padding-top: 20px;
+}
+
+.title {
+  margin: auto auto;
+  color : rgb(255, 77, 0);
+}
+
+.title-blue {
+  font-size: 18px;
+  margin-top: 0px;
+  color: rgb(0, 0, 136)
+}
+
+.title-grey {
+  font-size: 18px;
+  margin-top: 0px;
+  color: rgb(129, 129, 129)
+}
+
+
+.backgroung-light-blue {
+  background-color: rgb(216, 233, 249);
+  padding : 10px;
+  border-radius: 4px;
+  margin-top: 10px;
+}
